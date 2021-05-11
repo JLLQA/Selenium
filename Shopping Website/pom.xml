@@ -5,8 +5,7 @@
 	<groupId>com.qa</groupId>
 	<artifactId>selenium</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Selenium</name>
-	<description>Selenium Demo</description>
+	<name>shoppingWebsite</name>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
 		<dependency>
